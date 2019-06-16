@@ -1,7 +1,15 @@
-# FH-CoffeeShop_System
+# FH-CoffeeShop_System <br/>
 
-### First FST HDR Project.
-> #### Coffee Shop System!
+## Introduction
+#### - 간단한 커피 주문 시스템
+#### - Simple coffee order system.
 
-### FST HDR 프로젝트 젓번째.
-> #### 커피숍 시스템
+
+## Motivation
+
+#### - if문 및 연산자 사용 연습 겸 제작하게 되었다.
+#### - if syntax and operator practice
+
+
+## Development Environment
+##### Windows 10 / Visual studio 2017
